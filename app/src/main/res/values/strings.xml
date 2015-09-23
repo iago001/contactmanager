@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contact Manager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_new">New</string>
+    <string name="action_add">New Contact</string>
+    <string name="title_activity_create_contact">Create Contact</string>
+    <string name="action_done">Save</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="email">Email address</string>
+    <string name="createSuccess">Contact %s created successfully.</string>
+    <string name="createFailed">Contact %s could not be created</string>
+    <string name="deleteC">Delete Contact</string>
+    <string name="deleteCM">Are you sure you want to delete contact %s?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteSuccess">Contact deleted successfully</string>
+    <string name="deleteFailed">Contact deletion failed</string>
+</resources>
